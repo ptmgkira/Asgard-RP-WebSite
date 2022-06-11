@@ -1416,7 +1416,12 @@ a.back-to-top {
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
-
+        .coluna{
+          float: center;
+          width: 33.33%;
+          text-align: center;
+          background: #262431;
+		}
 a:hover.back-to-top {
 	background-color: #36edfd; 
 }
